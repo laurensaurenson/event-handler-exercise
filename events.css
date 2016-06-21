@@ -1,0 +1,28 @@
+.add-color {
+  color: teal;
+}
+
+.make-large {
+  font-size: 1.5em;
+}
+
+.add-border {
+  border: 2px solid black;
+}
+
+.add-rounding {
+  border-radius: 5px;
+}
+
+button {
+  display: block;
+}
+
+#section1 {
+  font-weight: bold;
+}
+
+#section3 {
+  font-weight: bold;
+  font-style: italic;
+}
